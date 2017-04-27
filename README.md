@@ -1,4 +1,8 @@
-# Angular2TwigTemplating
+## Angular2TwigTemplating
+
+An initial attempt at incorporating Twig templates using files from https://github.com/manekinekko/angular2-twig into an Angular 2 CLI project.
+
+The end result is to have the angular component templates load from Twig files sitting on S3.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
